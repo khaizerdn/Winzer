@@ -1,6 +1,6 @@
-# Windows Optimizer
+# Winzer
 
-A Windows batch script designed to **clean, optimize, and declutter your system** by removing temporary data, disabling unnecessary services, and performing disk optimizations.
+Winzer, short for Windows Optimizer, is designed to automatically clean, optimize, and declutter your system by removing temporary data, disabling unnecessary services, and performing disk optimizations.
 
 > **Warning:** This script permanently deletes files in key locations such as the `Downloads` folder, system temp directories, and the Recycle Bin. Use with caution.
 
